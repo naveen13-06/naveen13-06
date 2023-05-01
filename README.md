@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Naveen
+
+- 🔭 I’m currently working as intern in National Instruments
+- 🌱 I’m currently learning ML and web development
+- 👯 I’m looking forward to collaborate with brilliant minds
+- 📫 How to reach me: ..
 
 <!--
 **naveen13-06/naveen13-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
